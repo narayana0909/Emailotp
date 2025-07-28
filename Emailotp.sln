@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emailotp", "Emailotp\Emailotp.csproj", "{BC955E0C-EDFE-4554-9709-8A21893B1278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{658F2D53-CAED-4E94-8736-772EB3927707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC955E0C-EDFE-4554-9709-8A21893B1278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC955E0C-EDFE-4554-9709-8A21893B1278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC955E0C-EDFE-4554-9709-8A21893B1278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC955E0C-EDFE-4554-9709-8A21893B1278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658F2D53-CAED-4E94-8736-772EB3927707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658F2D53-CAED-4E94-8736-772EB3927707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658F2D53-CAED-4E94-8736-772EB3927707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658F2D53-CAED-4E94-8736-772EB3927707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {526809EA-97B6-4481-B834-D29E32F63191}
+	EndGlobalSection
+EndGlobal
