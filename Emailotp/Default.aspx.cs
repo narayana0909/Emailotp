@@ -49,9 +49,9 @@ namespace Emailotp
 
         private void SendSmsViaTwilio(string mobile, string otp)
         {
-            string accountSid = "ACcb2e055f776f669bde655a1a2cf8defa";    
-            string authToken = "b675832c6b9d7439a632801029be5146";       
-            string fromNumber = "+18158878524";         
+            string accountSid = "your twilio sid";    
+            string authToken = "your twilio token";       
+            string fromNumber = "choose number";         
 
             TwilioClient.Init(accountSid, authToken);
 
